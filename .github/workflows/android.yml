@@ -48,5 +48,3 @@ jobs:
         with:
           name: AviatorScanner-APK
           path: app/build/outputs/apk/debug/*.apk
-          
-          
