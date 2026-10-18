@@ -1,4 +1,4 @@
-name: Build Aviator Scanner APK
+cb40163686eefab19a8da559dc35f936ba1c2c14name: Build Aviator Scanner APK
 
 on:
   workflow_dispatch:
